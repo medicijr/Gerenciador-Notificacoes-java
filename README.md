@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat&logo=java)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat)
 
-Projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos, Design Patterns e Collections em Java, como parte da trilha de estudos para Desenvolvedor Java Back-End Júnior.
+Projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos, Design Patterns e Collections em Java, como parte da trilha de estudos para Desenvolvedor Java Back-End - Curso IsiFLIX.
 
 ---
 
