@@ -29,10 +29,10 @@ Projeto desenvolvido para praticar conceitos de Programação Orientada a Objeto
 ## 📁 Estrutura do projeto
 
 src/
-├── Main.java → execução do programa
-├── model/ → entidades do sistema (Notificacao, TipoNotificacao, Notificador, EmailNotificador, SmsNotificador)
-├── config/ → configuração global (ConfiguracaoSistema)
-└── service/ → regras de histórico (HistoricoNotificacoes)
+├── Main.java   → execução do programa
+├── model/      → entidades do sistema (Notificacao, TipoNotificacao, Notificador, EmailNotificador, SmsNotificador)
+├── config/     → configuração global (ConfiguracaoSistema)
+└── service/    → regras de histórico (HistoricoNotificacoes)
 
 ---
 
